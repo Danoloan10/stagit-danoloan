@@ -4,3 +4,5 @@ stagit
 stagit fork for http://git.danoloan.es
 
 upstream: https://git.codemadness.org/stagit/
+
+This fork is translated to Spanish, eases localization and adds classes to some HTML tags
